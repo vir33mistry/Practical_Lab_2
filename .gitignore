@@ -12,22 +12,4 @@ ENV/
 # Jupyter
 .ipynb_checkpoints/
 
-# OS / editor files
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
 
-# Logs
-*.log
-
-# Data / outputs (optional)
-*.csv
-*.parquet
-*.pkl
-*.joblib
-
-# Build / distribution
-build/
-dist/
-*.egg-info/
